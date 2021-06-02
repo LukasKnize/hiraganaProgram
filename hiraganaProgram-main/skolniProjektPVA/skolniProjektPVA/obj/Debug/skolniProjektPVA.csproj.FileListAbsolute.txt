@@ -33,3 +33,4 @@ C:\Users\knize.lu.2019\Downloads\hiraganaProgram-main\skolniProjektPVA\skolniPro
 C:\Users\knize.lu.2019\Downloads\hiraganaProgram-main\skolniProjektPVA\skolniProjektPVA\obj\Debug\skolniProjektPVA.csproj.CoreCompileInputs.cache
 C:\Users\knize.lu.2019\Downloads\hiraganaProgram-main\skolniProjektPVA\skolniProjektPVA\obj\Debug\skolniProjektPVA.exe
 C:\Users\knize.lu.2019\Downloads\hiraganaProgram-main\skolniProjektPVA\skolniProjektPVA\obj\Debug\skolniProjektPVA.pdb
+C:\Users\knize.lu.2019\Downloads\hiraganaProgram-main\skolniProjektPVA\skolniProjektPVA\obj\Debug\skolniProjektPVA.Form4.resources

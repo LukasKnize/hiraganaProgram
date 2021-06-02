@@ -22,6 +22,7 @@ namespace skolniProjektPVA
         {
             //otevřít základní tréning
             (new Form1()).Show();
+            User.easy += 1;
             this.Hide();
         }
 
@@ -50,6 +51,13 @@ namespace skolniProjektPVA
         private void button2_Click(object sender, EventArgs e)
         {
             (new Form3()).Show();
+            User.hard += 1;
+            this.Hide();
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            (new Form4()).Show();
             this.Hide();
         }
     }

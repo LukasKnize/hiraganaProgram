@@ -34,6 +34,8 @@ namespace skolniProjektPVA
             if (bu.Tag.ToString() == "n")
             {
                 textBox1.BackColor = ColorTranslator.FromHtml("#DA627D");
+                string bhira = hira[ Generate.Get("ok", steps)];
+                User.badHira.Add(bhira);
                 User.mis += 1; 
             }
             else
